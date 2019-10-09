@@ -1,0 +1,16 @@
+{
+  "name": "basevschtml",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "simplehttpserver -p 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simplehttpserver": "^0.3.0",
+    "typescript": "^3.6.3"
+  },
+  "description": ""
+}
